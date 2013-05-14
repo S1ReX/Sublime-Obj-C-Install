@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Sublime-Obj-C Install' target in the 'Sublime-Obj-C Install' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif
